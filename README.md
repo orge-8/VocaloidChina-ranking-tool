@@ -21,7 +21,7 @@ pip install streamlit requests pandas
 ```bash
 streamlit run 虚拟歌手中文曲排行榜 计分排行工具.py
 ```
-启动成功后，会自动打开浏览器（默认地址：`[http://localhost:8501](https://vocaloidchina-ranking-tool-ngfkgolpsdqdhx6z4eufgw.streamlit.app/)`）。
+启动成功后，会自动打开浏览器（默认地址：`https://vocaloidchina-ranking-tool-ngfkgolpsdqdhx6z4eufgw.streamlit.app`）。
 
 ### 2. 抓取视频数据（📥 抓取视频数据标签页）
 #### 方式1：使用预设BV号列表
