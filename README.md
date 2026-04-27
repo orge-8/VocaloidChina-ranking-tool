@@ -25,7 +25,7 @@ pip install requests pandas tqdm openpyxl
 
 ### 1. 运行脚本
 ```bash
-python demo.py
+python 虚拟歌手中文曲排行榜 计分排行工具.py
 ```
 运行后会显示主菜单，选择对应功能序号即可：
 ```
